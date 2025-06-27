@@ -28,6 +28,8 @@ Hotel Reservation System
 3. View Bookings
 4. Cancel Booking
 5. Exit
+
+   
 Enter your choice:
 
 
